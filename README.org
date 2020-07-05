@@ -2,10 +2,17 @@ Can I create an org-mode readme?  That'd be really cool....
 
 * Website
 
-The website is at [[https://electorama.com/][electorama.com]]
+The website is at [[https://electorama.com/][electorama.com]] . I'm mainly using github for
+important mods:
+
+ * https://github.com/electorama/electorama-website
+
 
 * Journal
 ** 2020
 *** 2020-07-04
 
 Happy [[https://robla.miraheze.org/wiki/4th_of_July][4th of July]] y'all!  Most of the relevant journaling about electorama.com is probably going to be found on [[https://electowiki.org/wiki/User:RobLa/Journal][robla's journal on electowiki]].
+This is a checkout of the electorama.com website.  It's in a subdirectory off the home directory out on the server, too.
+
+I fixed up the favicon in the site today
